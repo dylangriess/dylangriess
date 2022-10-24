@@ -1,25 +1,28 @@
+```javascript
 const aboutMe = {
-   code: ["JavaScript", "HTML", "CSS"],
+   code: [JavaScript, "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["React", "jQuery"],
-         css: ["Bulma", "Styled-Components", "Bootstrap", "Material UI"],
+         js: [React, "jQuery"],
+         css: ["Styled-Components", "Bootstrap", "Material UI"],
          templates: "Handlebars"
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: [Node, Express],
          misc: "GraphQL"
       },
       mobile: {
          js: "React Native",
       },
    
-   databases: ["MongoDB", "mySQL"],
+   databases: [MongoDB, "mySQL"],
 
-   currentOccupation: "Software Engineer - On the hunt!",
+   currentOccupation: "Software Engineer - On the job hunt!",
    currentChallenges: ["Docker", "React Native"]
 };
+```
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylangriess/).
+
 
 <!---
 dylangriess/dylangriess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
