@@ -1,7 +1,24 @@
-- 👋 Hi, I’m @dylangriess
-- 👀 I’m interested in tapping into the vast knowledge that full stack web development has to offer.
-- 🌱 I’m currently learning React and GraphQL, and creating apps using MERN stack.
-- 💞️ I’m looking to collaborate on future projects following my journey in the full stack bootcamp!
+const aboutMe = {
+   code: ["JavaScript", "HTML", "CSS"],
+   technologies: {
+      frontEnd: {
+         js: ["React", "jQuery"],
+         css: ["Bulma", "Styled-Components", "Bootstrap", "Material UI"],
+         templates: "Handlebars"
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         misc: "GraphQL"
+      },
+      mobile: {
+         js: "React Native",
+      },
+   
+   databases: ["MongoDB", "mySQL"],
+
+   currentOccupation: "Software Engineer - On the hunt!",
+   currentChallenges: ["Docker", "React Native"]
+};
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dylangriess/).
 
 <!---
